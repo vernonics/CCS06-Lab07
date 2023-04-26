@@ -1,0 +1,17 @@
+{
+    "name": "app/php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Veronica Jane M. Tibe",
+            "email": "tibe.veronicajane@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
+
